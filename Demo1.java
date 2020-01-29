@@ -2,8 +2,9 @@
  *on GitHub
  */
 
-class Demo1{
+class Demo1{   
    public static void main(String[] args){
+      int x;
       System.out.println("Hello World");
    }
 }
