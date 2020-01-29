@@ -4,8 +4,8 @@
 
 class Demo1{   
    public static void main(String[] args){
-      int x;
-      int y;
+      int x=0;
+      int y=0;
       System.out.println("Hello World");
    }
 }
