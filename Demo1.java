@@ -7,5 +7,6 @@ class Demo1{
       int x=0;
       int y=0;
       System.out.println("Hello World");
+      System.out.println(x+y);
    }
 }
