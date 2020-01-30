@@ -11,6 +11,6 @@ class Demo1{
       int b=35;
       System.out.println("Hello World");
       System.out.println(x+y+z);
-      System.out.println(a+b);
+      System.out.println("Sum of (a+b) is : "+ (a+b));
    }
 }
